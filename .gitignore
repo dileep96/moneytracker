@@ -1,0 +1,15 @@
+node_modules
+.next
+out
+dist
+.env
+.env.local
+data/*.db
+data/*.db-journal
+*.log
+.DS_Store
+.vscode
+.idea
+next-env.d.ts
+tsconfig.tsbuildinfo
+
