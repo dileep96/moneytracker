@@ -6,6 +6,9 @@ dist
 .env.local
 data/*.db
 data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+data/refresh.log
 *.log
 .DS_Store
 .vscode
